@@ -1,6 +1,6 @@
 # C-University-Tasks
 Task 1:
-![434991923-162f9fbd-e045-442c-9fa5-6a0b734b4b6a](https://github.com/user-attachments/assets/cba859ac-0601-4f38-a5c9-4f7b47d5918b)
+![434991923-162f9fbd-e045-442c-9fa5-6a0b734b4b6a](https://github.com/user-attachments/assets/99d0257e-c2c3-449b-b144-ff799b997e30)
 Task 2:
 ![434992025-a0e5e9c3-03ab-4bac-95c0-621f7bbe3c97](https://github.com/user-attachments/assets/50e40010-5b1d-447f-89b4-dc8148ba9104)
 Task 3:
